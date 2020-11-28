@@ -5,7 +5,7 @@
 - 📫 Reach me on ikanurlaily97@gmail.com
 - 🌐 Visit [ikanurlaily.github.io](https://ikanurlaily.github.io/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okkymabruri&label=Views&color=blue&style=plastic" alt="okkymabruri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikanurlaily&label=Views&color=blue&style=plastic" alt="ikanurlaily" /> </p>
 <!--
 **ikanurlaily/ikanurlaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
