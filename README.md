@@ -1,4 +1,4 @@
-### Hi, My name is Ika
+### Hi, My name is Ika :handshake:
 
 - :books: I’m currently graduate student of Statistics
 - :computer: I'am interest in data science
