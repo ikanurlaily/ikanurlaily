@@ -1,7 +1,7 @@
-### Hi, My name is Ika 👋
+### Hi, My name is Ika
 
-- 🌱 I’m currently graduate student of Statistics
-- 😄 I'am interest in data science
+- :books: I’m currently graduate student of Statistics
+- :computer: I'am interest in data science
 - 📫 Reach me on ikanurlaily97@gmail.com
 - 🌐 Visit [ikanurlaily.github.io](https://ikanurlaily.github.io/)
 
