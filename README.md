@@ -1,5 +1,5 @@
 ### Hi, My name is Ika :handshake:
-
+Let's collaborate with me 😄
 - :books: I’m currently graduate student of Statistics
 - :computer: I'am interest in data science
 - 📫 Reach me on ikanurlaily97@gmail.com
